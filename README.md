@@ -1,3 +1,5 @@
+Customer Data Analysis 
+
 To find all possible insights (min 5) from a customers’ two years transaction detail.
 Why ?
 To evaluate the thinking capacity of the candidate.
