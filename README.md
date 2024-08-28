@@ -23,11 +23,12 @@ Key insights from analysis :
 
 
  Conclusion :
-  We can analyze that our product based is mainly based on united kingdom ie people from that area are buying most of our product so to meet demand of customers, it is required to open new shops there ​
+ 
+   We can analyze that our product based is mainly based on united kingdom ie people from that area are buying most of our product so to meet demand of customers, it is required to open new shops there ​
 
-We can find out to during the main season for our product is Jan & Feb​
+   We can find out to during the main season for our product is Jan & Feb​
 
- We can also analyze that there is increase is total sales during the two  year period which show that customer is satisfied by our product
+   We can also analyze that there is increase is total sales during the two  year period which show that customer is satisfied by our product
 
 
 ​
